@@ -1,0 +1,4 @@
+screen
+======
+
+Screen configuration file
